@@ -1,3 +1,6 @@
 import 'package:flutter/material.dart';
 
-// const Color color1 = Color('0xFFffc107');
+
+const baseUrl = 'https://rickandmortyapi.com/api/';
+const String chracterScreen = '/';
+const String chracterDetailsScreen = '/character_details';
